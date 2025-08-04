@@ -1,1 +1,4 @@
 # Test_003
+
+
+Sir Isaac Newton[a] (4 January [O.S. 25 December] 1643 – 31 March [O.S. 20 March] 1727)[b] was an English polymath active as a mathematician, physicist, astronomer, alchemist, theologian, and author.[5] Newton was a key figure in the Scientific Revolution and the Enlightenment that followed.[6] His book Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687, achieved the first great unification in physics and established classical mechanics.[7][8] Newton also made seminal contributions to optics, and shares credit with German mathematician Gottfried Wilhelm Leibniz for formulating infinitesimal calculus, though he developed calculus years before Leibniz. Newton contributed to and refined the scientific method, and his work is considered the most influential in bringing forth modern science.
